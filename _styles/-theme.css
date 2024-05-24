@@ -1,12 +1,12 @@
 [data-dark=false] {
-  --primary: #2a9d8f;
-  --secondary: #264653;
+  --primary: #4d908e;
+  --secondary: #43aa8b;
   --text: #023047;
   --background: #ffffff;
-  --background-alt: #fafafa;
-  --light-gray: #e0e0e0;
-  --gray: #808080;
-  --dark-gray: #404040;
+  --background-alt: #f9844a;
+  --light-gray: #f9c74f;
+  --gray: #f8961e;
+  --dark-gray: #f3722c;
   --overlay: #00000020;
 }
 
