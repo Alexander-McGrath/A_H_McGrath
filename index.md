@@ -27,9 +27,9 @@ My research incorporates experimental marine ecology with NGS and microbiology t
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/41522_2024_503_Fig2_HTML .jpg"
   link="research"
-  title="Our Research"
+  title="My Research"
   text=text
 %}
 
@@ -40,7 +40,7 @@ Heres a couple of my current and past projects
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Browse my projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -50,7 +50,7 @@ Heres a couple of my current and past projects
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/HB2.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -75,8 +75,8 @@ A bit about me and my CV
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Headshot.jpg"
   link="team"
-  title="Our Team"
+  title="About me"
   text=text
 %}
