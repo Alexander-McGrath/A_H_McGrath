@@ -16,28 +16,4 @@ Marine ecologist and microbiologist from the UK who is slightly obsessed with ma
 
 
 
-{%
-  include section.html
-  background="images/HB.jpg"
-  dark=true
-  size=full
-%}
 
-
-{%
-  include figure.html
-  image="images/AHM CV 2023-images-0.jpg"
-  caption="The team at our annual Christmas party, 2025"
-  link="team"
-  size="100%"
-%}
-
-{% include section.html size="20" %}
-
-{% include figure.html image="images/AHM CV 2023-images-0.jpg" %}
-
-{% include section.html %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
