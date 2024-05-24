@@ -13,3 +13,10 @@ Outside of the lab you can find me either in the pottery studio or with my head 
 
 
 {% include grid.html style="square" content=content %}
+
+{%
+  include figure.html
+  image="images/AHM CV 2023_page-0001.jpg"
+  caption="CV"
+  link="team" width="900px"
+%}
