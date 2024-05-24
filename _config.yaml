@@ -1,19 +1,21 @@
 # site properties and page defaults
-title: Alexander-McGrathDESCRIPTION=An engaging 1-3 sentence description of your lab.
-subtitle: 
-description: 
+title: Alexander Harry McGrath
+subtitle: Research Fellow - Università di Pisa 
+description: Marine ecologist and microbiologist from the UK who is slightly obsessed with marine macrophytes. I have studied ecology in systems ranging from ticks to limpets and most recently habitat forming macroalgae. My work uses manipulative field and mesocosm experiments to explore the role of host-associated microbes in host function and fitness.
+Outside of the lab you can find me either in the pottery studio or with my head stuck in a rockpool looking for critters.
+
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@Alexander-McGrathDESCRIPTION=An engaging 1-3 sentence description of your lab..com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: Alexander-McGrathDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: Alexander-McGrathDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: Alexander-McGrathDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  email: alexander.mcgrath at biologia.unipi.it
+  orcid: 0000-0001-9237-6539
+  google-scholar: https://scholar.google.com/citations?user=xKKPSocAAAAJ&hl=en&authuser=1
+  github: https://github.com/Alexander-McGrath
+  twitter: https://twitter.com/A_H_McGrath
+
 
 ### jekyll settings
 
