@@ -19,7 +19,7 @@ Marine ecologist and microbiologist from the UK who is slightly obsessed with ma
   image="images/AHM CV 2023_page-0001.jpg"
   caption="CV"
   link="team"
-  width="400px"
+  width="800px"
 %}
 
 {% endcapture %}
