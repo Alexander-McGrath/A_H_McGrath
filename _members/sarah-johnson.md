@@ -1,11 +1,11 @@
 ---
-name: Sarah Johnson
-image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+name: Alexander Harry McGrath
+image: images/Headshot.jpg
+description: Research Fellow
+role: PhD
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  email: alexander.mcgrath@biologia.unipi.it
+  twitter: A_H_McGrath
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
