@@ -27,7 +27,7 @@ My research incorporates experimental marine ecology with NGS and microbiology t
 
 {%
   include feature.html
-  image="images/41522_2024_503_Fig2_HTML .jpg"
+  image="images/41522_2024_503_Fig2_HTML .png"
   link="research"
   title="My Research"
   text=text
