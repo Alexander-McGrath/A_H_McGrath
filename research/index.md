@@ -7,9 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+My research Leverages ecological theory wtihin holobiont systems to determine cause-effect relationships within a changing environment. Currently I am conducting experiments aimed at disentangling the effect of host genotype versus microbiome in host function and fitness.
 
+I am interested generally in Ecology, Microbiology, and evolutionary biology.
 {% include section.html %}
 
 ## Highlighted
