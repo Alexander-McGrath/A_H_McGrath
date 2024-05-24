@@ -1,47 +1,30 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: 1. Causation in host-microbe interactions
+  subtitle: 
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/HB.jpg
+  link: https://alexander-mcgrath.github.io/AHMcGrath/projects/Causation/
+  description: An experimental framework for the manipulation of non-model host-microbe systems
   tags:
     - resource
     - publication
+    - experimental design
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: 2. Microbial effects on hosts across ontogeny and beyond physiology
+  subtitle: 
+  group: featured
+  image: images/HB5.jpg
+  link: https://alexander-mcgrath.github.io/AHMcGrath/projects/Ontogeny/
+  description: Moving beyond physiological measures of host function to determine the fitness effects of microbial disruption
   tags:
-    - software
+    - publication
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: 3. Microbially mediated responses to environmental stress
+  subtitle: 
+  group: featured
+  image: images/HB2.jpg
+  link: https://alexander-mcgrath.github.io/AHMcGrath/projects/Rainfall/
+  description: Determining the role of host-associated microbes in regulating host responses to extreme environmental stress
   tags:
-    - software
+    - publication
+
+
