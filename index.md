@@ -65,7 +65,7 @@ A bit about me and my CV
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Find out more"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
