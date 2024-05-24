@@ -30,7 +30,7 @@ Next section of content
   image="images/AHM CV 2023-images-0.jpg"
   caption="The team at our annual Christmas party, 2025"
   link="team"
-  width="2000px"
+  width="100%"
 %}
 
 {% include section.html size="20" %}
