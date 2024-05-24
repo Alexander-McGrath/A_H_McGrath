@@ -1,35 +1,15 @@
 ---
-title: Team
+title: About
 nav:
   order: 3
-  tooltip: About our team
+  tooltip: About me
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Marine ecologist and microbiologist from the UK who is slightly obsessed with marine macrophytes. I have studied ecology in systems ranging from ticks to limpets and most recently habitat forming macroalgae. My work uses manipulative field and mesocosm experiments to explore the role of host-associated microbes in host function and fitness.
+Outside of the lab you can find me either in the pottery studio or with my head stuck in a rockpool looking for critters.
 
-{% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
-
-{% include section.html background="images/background.jpg" dark=true %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include section.html %}
-
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
 
 {% include grid.html style="square" content=content %}
