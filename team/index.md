@@ -12,8 +12,5 @@ Marine ecologist and microbiologist from the UK who is slightly obsessed with ma
 
 
 
-{% capture content %}
-
-
 
 
