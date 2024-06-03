@@ -7,8 +7,6 @@ nav:
 {%
   include figure.html
   image="images/Logo.svg"
-  caption="The team at our annual Christmas party, 2025"
-  link="team"
   width="800px"
 %}
 # {% include icon.html icon="fa-solid fa-users" %}About me
