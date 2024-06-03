@@ -41,9 +41,9 @@ Developed an understanding of the application of core scientific principles to t
 
 **Research Grants and Awards**
 
-**Postgraduate Research Scholarship in Marine Seaweed-Microbiome Interactions** – William George Murrell Bequest – 2022 – 2023
+**Postgraduate Research Scholarship in Marine Seaweed-Microbiome Interactions** | William George Murrell Bequest – 2022 – 2023
 
-**Rhum Award in Marine Ecology** – 2022
+**Rhum Award in Marine Ecology** | 2022
 
 **Holsworth Research endowment** | Ecological Society of Australia – 2021 – 2023
 
