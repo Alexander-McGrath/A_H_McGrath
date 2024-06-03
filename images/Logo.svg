@@ -36,7 +36,7 @@
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     inkscape:export-bgcolor="#ffffffff" />
+     inkscape:export-bgcolor="#f4f3eeff" />
   <defs
      id="defs1">
     <rect
@@ -54,12 +54,6 @@
     <g
        id="g12"
        transform="matrix(1.5041115,0,0,1.7337363,-120.20698,-121.90032)">
-      <path
-         style="fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#ef3054;stroke-width:3.02362;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-         d="m 471.46424,205.88773 v 57.64805"
-         id="path1-2"
-         inkscape:connector-type="polyline"
-         inkscape:connector-curvature="0" />
       <g
          id="g1"
          inkscape:export-filename=".\logo.svg"
