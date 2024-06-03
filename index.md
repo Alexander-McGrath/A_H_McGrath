@@ -5,7 +5,13 @@ The role of Host-associated microbiota under environmental stress and across ont
 
 
 
-{% include section.html %}
+{%
+  include section.html
+  background="images/HB.jpg"
+  dark=false
+  size=full
+%}
+
 
 ## Highlights
 
