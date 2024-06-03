@@ -9,7 +9,7 @@ proofer: false
 
 # site social media and other links
 links:
-  email: alexander.mcgrath at biologia.unipi.it
+  email: alexander.mcgrath@biologia.unipi.it
   orcid: 0000-0001-9237-6539
   google-scholar: https://scholar.google.com/citations?user=xKKPSocAAAAJ&hl=en&authuser=1
   github: https://github.com/Alexander-McGrath
