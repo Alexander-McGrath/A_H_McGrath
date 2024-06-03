@@ -2,8 +2,6 @@
 ---
 I am a Marine Ecologist and Microbiologist with broad interests in the role of host-associated microbiota in host function and fitness across ontogeny. My research incorporates classical experimental marine ecology with NGS and microbiological approaches to ask questions about the importance of microbial communities in host function/fitness, and whether this changes under environmental stress. 
 
-
-
 ## Highlights
 
 
@@ -78,7 +76,7 @@ A bit about me and my CV
   text=text
 %}
 
-
+## Twitter feed
  <a class="twitter-timeline" data-width="1000" data-height="500" data-theme="light" href="https://twitter.com/A_H_McGrath?ref_src=twsrc%5Etfw">Tweets by A_H_McGrath</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
