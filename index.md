@@ -1,6 +1,8 @@
 ---
 ---
-The role of Host-associated microbiota under environmental stress and across ontogeny. 
+I am a Marine Ecologist and Microbiologist with broad interests in the role of host-associated microbiota in host function and fitness across ontogeny. My research incorporates classical experimental marine ecology with NGS and microbiological approaches to ask questions about the importance of microbial communities in host function/fitness, and whether this changes under environmental stress. 
+
+
 
 
 
