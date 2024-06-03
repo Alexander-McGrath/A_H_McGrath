@@ -81,5 +81,5 @@ A bit about me and my CV
   text=text
 %}
 
-{% <a class="twitter-timeline" href="https://twitter.com/A_H_McGrath?ref_src=twsrc%5Etfw">Tweets by A_H_McGrath</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-%}
+<a class="twitter-timeline" data-width="500" data-height="300" data-theme="light" href="https://twitter.com/A_H_McGrath?ref_src=twsrc%5Etfw">Tweets by A_H_McGrath</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
