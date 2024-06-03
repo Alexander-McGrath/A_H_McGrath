@@ -15,7 +15,7 @@ nav:
 Marine ecologist and microbiologist from the UK who is slightly obsessed with marine macrophytes. I have studied ecology in systems ranging from ticks to limpets and most recently habitat forming macroalgae. My work uses manipulative field and mesocosm experiments to explore the role of host-associated microbes in host function and fitness. Outside of the lab you can find me either in the pottery studio or with my head stuck in a rockpool looking for critters.
 
 
--**Research Experience**|
+|**Research Experience**|
 
 **Research Fellow** 
 
@@ -55,13 +55,15 @@ Developed an understanding of the application of core scientific principles to t
 **RTP Tuition Fee offset**  - Commonwealth Government2020 – 2023
 
 |**Supervision and Mentorship**|
+
 1. Salil Dutt Barrett – 2022 Honours Student - Investigating the effect of Artificial Light at Night (ALAN) on 
 intertidal biofilms and seaweed settlement 
 2. Rose Fuggle – 2021 Honours Student – Experimental evidence root-associated microbes mediate seagrass 
 response to environmental stress
 3. Amy Flower – 2018/2019 Undergraduate placement student – Ecology of intertidal ecosystems
 
-|**Education** |
+|**Education**|
+
 **Doctor of Philosophy in Marine Ecology**
 University of Sydney 2020 - 2023 -
 Thesis - Impacts of environmental change on the role of host- associated microbiota in ecosystem functioning 
@@ -90,13 +92,8 @@ Cornwall
 |**Teaching** |
 
 **Marine Field Ecology** | BIOL3008
-
 **Ecology and Conservation** | BIOL2024 
-
 **Marine Biology** | BIOL3013
-
 **Biology Experimental Design and Analysis** | BIOL2022
-
 **Microbiology** | MICR2031/2931
-
 **Microbes in Health and Disease** | MICR3021
