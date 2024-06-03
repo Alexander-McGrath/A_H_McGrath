@@ -38,9 +38,9 @@ Heres a couple of my current and past projects
 {%
   include button.html
   link="projects"
-  text="Browse my projects"
+  text="Past and current projects"
   icon="fa-solid fa-arrow-right"
-  flip=true
+  flip=false
   style="bare"
 %}
 
@@ -51,7 +51,7 @@ Heres a couple of my current and past projects
   image="images/HB2.jpg"
   link="projects"
   title="Our Projects"
-  flip=true
+  flip=false
   style="bare"
   text=text
 %}
