@@ -58,18 +58,21 @@ response to environmental stress
 
 **Education** 
 **Doctor of Philosophy in Marine Ecology**
-University of Sydney 2020 - 2023 
+University of Sydney 2020 - 2023 |
 Thesis - Impacts of environmental change on the role of host- associated microbiota in ecosystem functioning 
+
 **MRes Marine Biology (Merit)**
-University of Plymouth 2018 - 2019 
-Thesis – Density-dependant competition drives intragenus epibiosis within UK Patellid limpets 
+University of Plymouth 2018 - 2019 |
+Thesis | Density-dependant competition drives intragenus epibiosis within UK Patellid limpets 
+
 **BSc (Hons) Zoo Biology (First Class)**
-University of Portsmouth 2017- 2018 
-Thesis -The effect of environmental factors on the prevalence of Borrelia burgdorferi s.l within Questing Ixodes spp ticks within the
+University of Portsmouth 2017- 2018 |
+Thesis | The effect of environmental factors on the prevalence of Borrelia burgdorferi s.l within Questing Ixodes spp ticks within the
 South of England 
+
 **Fd.Sc Marine Science (Distinction)**
-University of Plymouth 2015- 2017 
-Thesis - Abundance, Pod dynamics and habitat usage of Common Bottlenose Dolphins, Tursiops truncatus within Mounts Bay, 
+University of Plymouth 2015- 2017 |
+Thesis | Abundance, Pod dynamics and habitat usage of Common Bottlenose Dolphins, Tursiops truncatus within Mounts Bay, 
 Cornwall
 
 **Professional Membership** 
@@ -80,9 +83,15 @@ Cornwall
 **Marine Biological Association of the United Kingdom** | 2016-Present
 
 **Teaching** 
+
 **Marine Field Ecology** | BIOL3008
+
 **Ecology and Conservation** | BIOL2024 
+
 **Marine Biology** | BIOL3013
+
 **Biology Experimental Design and Analysis** | BIOL2022
+
 **Microbiology** | MICR2031/2931
+
 **Microbes in Health and Disease** | MICR3021
