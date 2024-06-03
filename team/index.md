@@ -9,7 +9,7 @@ nav:
   image="images/Logo.svg"
   width="800px"
 %}
-# {% include icon.html icon="fa-solid fa-users" %}About me
+# {% include icon.html icon="fa-solid fa-users" %}
 
 
 Marine ecologist and microbiologist from the UK who is slightly obsessed with marine macrophytes. I have studied ecology in systems ranging from ticks to limpets and most recently habitat forming macroalgae. My work uses manipulative field and mesocosm experiments to explore the role of host-associated microbes in host function and fitness. Outside of the lab you can find me either in the pottery studio or with my head stuck in a rockpool looking for critters.
@@ -24,10 +24,12 @@ I am currently a research fellow in the Marine Ecology and Biology research unit
 2020 -2023 – The University of Sudney
 My PhD research leveraged ecological theory to study host-microbe interactions and their causative effect on host and ecosystem 
 function in non-model systems
+
   **Research Assistant** 
   2021-2022
 Alongside my PhD I assisted Dr Ana Bugnot with Bioinformatics associated with a manipulative field-based experiment on 
 bioturbation (DADA2, PiCrust2 and Tax4Fun)
+
   **Casual Academic** 
   2020 – 2023
 Throughout my PhD I have been a Casual academic Demonstrator and Tutor for various courses (See teaching Below)
@@ -38,9 +40,13 @@ Oversaw culture and identification of bacterial strains from ballast water sampl
 Developed an understanding of the application of core scientific principles to the wider industry
 
 **Research Grants and Awards**
+
 **Postgraduate Research Scholarship in Marine Seaweed-Microbiome Interactions** – William George Murrell Bequest – 2022 – 2023
-**Rhum Award in Marine Ecology** – 2022 - $5871
-**Holsworth Research endowment** | Ecological Society of Australia – 2021 – 2023 - $7500
+
+**Rhum Award in Marine Ecology** – 2022
+
+**Holsworth Research endowment** | Ecological Society of Australia – 2021 – 2023
+
 **RTP Tuition Fee offset**  | Commonwealth Government2020 – 2023
 
 **Supervision and Mentorship**
