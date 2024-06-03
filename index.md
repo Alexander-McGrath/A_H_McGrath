@@ -4,45 +4,8 @@ I am a Marine Ecologist and Microbiologist with broad interests in the role of h
 
 
 
-
-
 ## Highlights
 
-{% capture content %}
-  {% include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare" %}
-  
-  {% include feature.html
-  image="images/41522_2024_503_Fig2_HTML .png"
-  link="research"
-  title="My Research"
-  text=text %}
-  
-  {% include button.html
-  link="projects"
-  text="Past and current projects"
-  icon="fa-solid fa-arrow-right"
-  flip=false
-  style="bare"%}
-  
-  {% include feature.html
-  image="images/HB2.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=false
-  style="bare"
-  text=text %}
-{% endcapture %}
-
-{%
-  include grid.html
-  content=content
-  style="square"
-%}
 
 {% capture text %}
 
