@@ -1,7 +1,6 @@
 ---
 ---
-
-# Marine ecologist and microbiologist from the UK who is slightly obsessed with marine macrophytes. 
+The role of Host-associated microbiota under environmental stress and across ontogeny. 
 
 
 
