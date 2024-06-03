@@ -17,11 +17,11 @@ Marine ecologist and microbiologist from the UK who is slightly obsessed with ma
 
 **Research Experience**
 
-**Research Fellow** 2024 – Present – Universita di Pisa
+**Research Fellow** 2024 – Present – Universita di Pisa |
 I am currently a research fellow in the Marine Ecology and Biology research unit at the Universita di Pisa. 
 
 **PhD Candidate** 
-2020 -2023 – The University of Sudney
+2020 -2023 – The University of Sudney |
 My PhD research leveraged ecological theory to study host-microbe interactions and their causative effect on host and ecosystem 
 function in non-model systems
 
@@ -35,7 +35,7 @@ bioturbation (DADA2, PiCrust2 and Tax4Fun)
 Throughout my PhD I have been a Casual academic Demonstrator and Tutor for various courses (See teaching Below)
 
 **Applied Research Scientist**
-2018 - 2019 PML Applications Ltd 
+2018 - 2019 PML Applications Ltd |
 Oversaw culture and identification of bacterial strains from ballast water samples using selective media and fluorescent microscopy. 
 Developed an understanding of the application of core scientific principles to the wider industry
 
