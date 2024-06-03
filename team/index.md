@@ -80,14 +80,14 @@ University of Plymouth 2015- 2017 -
 Thesis | Abundance, Pod dynamics and habitat usage of Common Bottlenose Dolphins, Tursiops truncatus within Mounts Bay, 
 Cornwall
 
-**Professional Membership** 
+|**Professional Membership** |
 **Australasian Society for Phycology and Aquatic Botany** | 2020-Present
 **Australian Marine Sciences Association** | 2020 – Present
 **Australian Society of Microbiology** | 2021-Present
 **Ecological Society of Australia** | 2020 - Present
 **Marine Biological Association of the United Kingdom** | 2016-Present
 
-**Teaching** 
+|**Teaching** |
 
 **Marine Field Ecology** | BIOL3008
 
