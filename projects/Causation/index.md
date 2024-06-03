@@ -6,7 +6,7 @@ header: images/header-for-this-page.jpg
 footer: images/footer-for-this-page.jpg
 header-dark: false
 footer-dark: false
-
+---
 ## Disentangling direct vs indirect effects of microbiome manipulations in a habitat-forming marine holobiont
 {% capture text %}
 
@@ -18,5 +18,5 @@ footer-dark: false
   width="400px"
 %}
 {% endcapture %}
----
+
 ​
