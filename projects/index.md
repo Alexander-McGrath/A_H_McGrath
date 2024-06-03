@@ -9,6 +9,14 @@ nav:
 
 Here are some of my past and upcoming work
 
+{%
+  include figure.html
+  image="images/group-photo.jpg"
+  caption="The team at our annual Christmas party, 2025"
+  link="team"
+  width="400px"
+%}
+
 {% include tags.html tags="publication, resource, website" %}
 
 {% include search-info.html %}
