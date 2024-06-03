@@ -35,7 +35,8 @@
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:export-bgcolor="#ffffffff" />
   <defs
      id="defs1">
     <rect
@@ -60,7 +61,10 @@
          inkscape:connector-type="polyline"
          inkscape:connector-curvature="0" />
       <g
-         id="g1">
+         id="g1"
+         inkscape:export-filename=".\logo.svg"
+         inkscape:export-xdpi="46.790756"
+         inkscape:export-ydpi="46.790756">
         <text
            xml:space="preserve"
            id="text1"
