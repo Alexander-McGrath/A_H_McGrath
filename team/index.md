@@ -4,7 +4,13 @@ nav:
   order: 3
   tooltip: About me
 ---
-
+{%
+  include figure.html
+  image="images/Logo.svg"
+  caption="The team at our annual Christmas party, 2025"
+  link="team"
+  width="200px"
+%}
 # {% include icon.html icon="fa-solid fa-users" %}About me
 
 
