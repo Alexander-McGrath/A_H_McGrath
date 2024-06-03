@@ -39,7 +39,7 @@ bioturbation (DADA2, PiCrust2 and Tax4Fun)
 2020 – 2023
 Throughout my PhD I have been a Casual academic Demonstrator and Tutor for various courses (See teaching Below)
 
-|**Applied Research Scientist**|
+**Applied Research Scientist**
 2018 - 2019 PML Applications Ltd -
 Oversaw culture and identification of bacterial strains from ballast water samples using selective media and fluorescent microscopy. 
 Developed an understanding of the application of core scientific principles to the wider industry
