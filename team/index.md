@@ -90,7 +90,6 @@ Cornwall
 **Marine Biological Association of the United Kingdom** | 2016-Present
 
 |**Teaching** |
-
 **Marine Field Ecology** | BIOL3008
 **Ecology and Conservation** | BIOL2024 
 **Marine Biology** | BIOL3013
