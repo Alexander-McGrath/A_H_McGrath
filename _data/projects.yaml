@@ -2,7 +2,7 @@
   subtitle: 
   group: featured
   image: images/HB.jpg
-  link: https://alexander-mcgrath.github.io/AHMcGrath/projects/Causation/
+  link: https://alexander-mcgrath.github.io/A_H_McGrath/projects/Causation/
   description: An experimental framework for the manipulation of non-model host-microbe systems
   tags:
     - resource
@@ -13,7 +13,7 @@
   subtitle: 
   group: featured
   image: images/HB4.png
-  link: https://alexander-mcgrath.github.io/AHMcGrath/projects/Ontogeny/
+  link: https://alexander-mcgrath.github.io/A_H_McGrath/projects/Ontogeny/
   description: Moving beyond physiological measures of host function to determine the fitness effects of microbial disruption
   tags:
     - publication
@@ -22,7 +22,7 @@
   subtitle: 
   group: featured
   image: images/HB2.jpg
-  link: https://alexander-mcgrath.github.io/AHMcGrath/projects/Rainfall/
+  link: https://alexander-mcgrath.github.io/A_H_McGrath/projects/Rainfall/
   description: Determining the role of host-associated microbes in regulating host responses to extreme environmental stress
   tags:
     - publication
